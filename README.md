@@ -10,8 +10,8 @@ PHPで実装した，Twitterモチーフのつぶやきアプリのポートフ�
 - エラー表示
 
 # 開発環境
-サーバサイド : PHP
-フロント : Bootstrap
-データベース : MySQL 
-デプロイ : heroku
-エディタ : VSCode
+- サーバサイド : PHP
+- フロント : Bootstrap
+- データベース : MySQL 
+- デプロイ : heroku
+- エディタ : VSCode
